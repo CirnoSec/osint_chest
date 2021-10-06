@@ -14,5 +14,10 @@
 - https://github.com/AbhishekBiswal/whatsapp-verify - A script to check the availability of Whatsapp phone number
 
 ## Images
-- **Metadata**
-  - http://exif.regex.info/exif.cgi
+**Metadata**
+- Exiftool
+- http://exif.regex.info/exif.cgi
+- https://www.imgonline.com.ua/
+- https://www.pic2map.com/
+- http://fotoforensics.com/
+
