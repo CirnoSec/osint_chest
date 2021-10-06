@@ -84,8 +84,14 @@
 ## Pastebin
 - https://cipher387.github.io/pastebinsearchengines/
 
-
-
+## Sock Puppet
+- fakenamegenerator.com
+- randus.org
+- behindthename.com/random/
+- elfqrin.com/fakeid.php
+- name-generator.org.uk
+- randomwordgenerator.com/name.php
+- randomuser.me
 
 
 
