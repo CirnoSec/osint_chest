@@ -15,6 +15,7 @@
 - Sherlock
 - https://namechk.com/
 - https://github.com/soxoj/maigret
+- https://github.com/snooppr/snoop
 
 ## Phone
 - https://github.com/AbhishekBiswal/whatsapp-verify - A script to check the availability of Whatsapp phone number
@@ -80,7 +81,8 @@
 - https://tgstat.ru/
 - https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0
 
-
+## Pastebin
+- https://cipher387.github.io/pastebinsearchengines/
 
 
 
@@ -90,4 +92,5 @@
 ## Resources
 - https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit?usp=sharing
 - https://github.com/sinwindie/OSINT
+- https://itsecforu.ru/2020/10/27/%F0%9F%95%B5%EF%B8%8F-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%B5%D0%BD/
 - 
