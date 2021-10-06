@@ -9,6 +9,7 @@
 ## Emails
 - https://github.com/martinvigo/email2phonenumber - Email2PhoneNumber
 - https://github.com/megadose/holehe - Holehe
+- https://github.com/reacherhq/check-if-email-exists
 
 ## Phone
 - https://github.com/AbhishekBiswal/whatsapp-verify - A script to check the availability of Whatsapp phone number
@@ -37,3 +38,7 @@
 
 **Time:**
 - https://www.suncalc.org/
+
+## Resources
+- https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit?usp=sharing
+- 
