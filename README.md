@@ -6,6 +6,11 @@
 - https://xinit.ru/wifi/ - find geolocation by bssid
 ## Subdomains
 - https://github.com/OWASP/Amass - Amass
+- https://crt.sh/
+- https://dnsdumpster.com/
+- https://github.com/aboul3la/Sublist3r/
+- https://github.com/darkoperator/dnsrecon
+- https://github.com/Findomain/Findomain
 ## Emails
 - https://github.com/martinvigo/email2phonenumber - Email2PhoneNumber
 - https://github.com/megadose/holehe - Holehe
