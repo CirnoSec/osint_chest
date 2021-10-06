@@ -24,6 +24,7 @@
 **Objects:**
 - https://yandex.ru/images/
 - https://images.google.com/
+- Google Lens
 - https://tineye.com/
 
 **Plants and birds:**
