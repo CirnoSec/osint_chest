@@ -1,4 +1,4 @@
-# osint
+# Osint Chest
 List of osint tools
 ## BSSID
 ## Geolocation
