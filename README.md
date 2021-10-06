@@ -49,21 +49,26 @@
 - @userinfobot
 - @CheckID_AIDbot
 - @username_to_id_bot
+
 **Search by ID and username:**
 - @Quick_OSINT_bot
 - @usersbox_bot
 - @smart_search_3_bot 
 - @CreaterGBOT
+
 **Search by chats:**
 - @telesint_bot 
 - @tgscanrobot
 - @eyeofbeholder_bot
+
 **Search by nickname:**
 - @maigret_osint_bot
 - @usersbox_bot (Sherlock)
 - @SangMataInfo_bot
+
 **Date:**
 - @creationdatebot
+
 **Search engines in Telegram:**
 - @MotherSearchBot
 - @buzzim_alerts_bot
