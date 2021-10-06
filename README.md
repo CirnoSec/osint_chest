@@ -1,5 +1,5 @@
 # Osint Chest
-List of osint tools
+My list of OSINT tools
 
 ![Test](https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e1/Large_Chest.gif)
 ## BSSID
