@@ -13,3 +13,6 @@
 ## Phone
 - https://github.com/AbhishekBiswal/whatsapp-verify - A script to check the availability of Whatsapp phone number
 
+## Images
+- **Metadata**
+  - http://exif.regex.info/exif.cgi
