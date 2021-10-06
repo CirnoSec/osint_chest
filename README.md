@@ -20,15 +20,19 @@
 - https://www.imgonline.com.ua/
 - https://www.pic2map.com/
 - http://fotoforensics.com/
+
 **Objects:**
 - https://yandex.ru/images/
 - https://images.google.com/
 - https://tineye.com/
+
 **Plants and birds:**
 - https://identify.plantnet.org/
 - https://merlin.allaboutbirds.org/
+
 **Serial number of camera:**
 - http://www.stolencamerafinder.com/
 - http://www.cameratrace.com/
+
 **Time:**
 - https://www.suncalc.org/
